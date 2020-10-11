@@ -6,4 +6,3 @@
 
 
 ![Char1](https://user-images.githubusercontent.com/28667123/95675718-db97d600-0bd6-11eb-9747-e3a6ec846edb.gif)
-https://github.com/ojas91196/Augmented-Reality-Projects/pulse
