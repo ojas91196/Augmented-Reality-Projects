@@ -2,7 +2,5 @@
 
 # 1) GoGo Masters 
 
-![Char2](https://user-images.githubusercontent.com/28667123/95673151-e09f5a00-0bc3-11eb-8e2e-0568c770b7bd.gif)
-
-
-![Char1](https://user-images.githubusercontent.com/28667123/95675718-db97d600-0bd6-11eb-9747-e3a6ec846edb.gif)
+![finalchar1](https://user-images.githubusercontent.com/28667123/95879242-c0be9080-0d93-11eb-9da7-8235982366b5.gif)
+![finalchar2](https://user-images.githubusercontent.com/28667123/95879251-c5834480-0d93-11eb-8efe-048be2afac6d.gif)
